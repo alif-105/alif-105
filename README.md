@@ -1,36 +1,45 @@
-Alif Ayan
-<WELCOME TO MY PROFILE>
-
-
-ALIF-AYAN-105
- ! 
-
-
-
-![Alt text](https://camo.githubusercontent.com/ebf84be3c9b929b89ce2dbe8489c6df660a086d4785f432186b654cab36616c3/68747470733a2f2f6a2e746f7034746f702e696f2f705f31393636736b677738302e6a7067)
-
-![Alt text](https://github.com/ALIF-105/ALIF-105/raw/main/md7Oqrf.gif)
-
-- ![Alt text](https://github.com/ALIF-105/ALIF-105/raw/main/Developer.gif)
+### Hi there 👋
 
 <!--
-*ALIF-AYAN-105/ALIF-AYAB-105* is a Ã¢Å“Â¨ special Ã¢Å“Â¨ repository because its README.md (this file) appears on your GitHub profile.
-
-
-
-
+ALIF-105/ALIF-105 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- Ã°Å¸â€Â­ IÃ¢â‚¬â„¢m currently working on ...
-- Ã°Å¸Å’Â± IÃ¢â‚¬â„¢m currently learning ...
-- Ã°Å¸â€˜Â¯ IÃ¢â‚¬â„¢m looking to collaborate on ...
-- Ã°Å¸Â¤â€ IÃ¢â‚¬â„¢m looking for help with ...
-- Ã°Å¸â€™Â¬ Ask me about ...
-- Ã°Å¸â€œÂ« How to reach me: ...
-- Ã°Å¸Ëœâ€ž Pronouns: ...
-- Ã¢Å¡Â¡ Fun fact: ...
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMER AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
+<h3 align="center">
+
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+WELCOME TO ALIF AYAN PROFILE
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+
+</h3>
+
+
+- ![Alt text](https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)
+
+> PROGRAMMING LANGUAGE :
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 MY PROFILE VISITORS :
 
